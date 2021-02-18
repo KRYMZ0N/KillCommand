@@ -1,0 +1,10 @@
+name: KillCommand
+version: 1.0
+author: KRYMZ0N
+main: me.krymz0n.killcommand.Main
+description: A spigot plugin to suicide players!
+
+commands:
+  kill:
+    aliases: [suicide]
+    description: The command to suicide players!
